@@ -33,8 +33,10 @@ http://localhost:3000/dev/agendas
 http://localhost:3000/dev/agendamento
 
 Body -> raw (json)
+```json
 {
   "medico_id": 1,
   "paciente_nome": "Carlos Almeida",
   "data_horario": "2024-10-05 09:00"
 }
+```
